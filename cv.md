@@ -84,5 +84,7 @@ The following examples are small pieces of code from one of the sites
 	}
 }
 ```
-### Experience
-experience in non-commercial projects, for example, in course and diploma projects.
+### 6. Experience
+Experience in non-commercial projects, for example, in course and diploma projects.
+### 7. Education
+Study in college of business and law, specialty information technology software.
