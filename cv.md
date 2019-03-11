@@ -88,3 +88,5 @@ The following examples are small pieces of code from one of the sites
 Experience in non-commercial projects, for example, in course and diploma projects.
 ### 7. Education
 Study in college of business and law, specialty information technology software.
+### 8. English level
+Intermediate. Have experience in communicating with yourself =) I constantly read in English, TV shows.
