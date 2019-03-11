@@ -53,7 +53,7 @@ The following examples are small pieces of code from one of the sites
       </div>
     </div>
 ```
-### CSS
+##### CSS
 ```sh
 .header-next__circle:hover {
 	box-shadow: 0 0 50px rgba(255, 255, 255, 0.8);
@@ -84,3 +84,5 @@ The following examples are small pieces of code from one of the sites
 	}
 }
 ```
+### Experience
+experience in non-commercial projects, for example, in course and diploma projects.
