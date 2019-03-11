@@ -7,3 +7,5 @@ My resume
    - mobile phone: +375 (33) 695-04-79 mts;
    - instagram: fedomladshi;
    - vk: Lesha Fedorovich.
+### 3. Summary 
+   I appreciate the sense of purpose and discipline in people, I think for a programmer these skills are very important, so I try to     follow them. I study web development for a year on my own, and to test my knowledge I take part in these courses. Ready to work under pressure and to tight deadlines, communicate confidently and me up with solutions to seemingly intractable problems. My goal is to become better and take the place of a front-end developer.
